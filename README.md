@@ -6,11 +6,11 @@ We've used Gaussian NB algorithm of Naive Bayes classifier family of Machine Lea
 
 Dataset: https://archive.ics.uci.edu/ml/datasets/heart+disease
 
+Technologies Used: Python, Jupyter Notebook
+
 Libraries Used: 
 1. Numpy (for mathematical operations on arrays)
 2. Pandas (for data analysis)
 3. Matplolib (for data visualization)
 4. Seaborn (for data visualization)
 5. Sci-kit Learn (for data modelling) 
-
-Technologies Used: Python, Jupyter Notebook
