@@ -19,7 +19,7 @@ Libraries Used:
 Parameters Used:
 
 | #  |  Attributes |     Description      |
-| :--:| :--------: | :---------------------: | 
+| :--:| :--------: | :--------------------- | 
 | 1  |   Age     |    Age in years |
 | 2  |  Sex      | Male:1, Female:0  |
 | 3  |  cp       | chest pain type: 1: typical angina, 2: atypical angina, 3: non-anginal pain, 4: asymptomatic | 
