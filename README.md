@@ -1,13 +1,13 @@
 # Introduction:
 
-**Objective:** To determine the presence of heart disease by using Naive Bayes classifier 
+**Objective:** To determine the probability of heart disease by using Naive Bayes classifier 
 
-The preventing Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
-We've used Gaussian NB algorithm of Naive Bayes classifier family to achieve higher accuracy rate, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features contains 13 of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
-
-**Dataset:** https://archive.ics.uci.edu/ml/datasets/heart+disease
+The prevention of Heart diseases has become more than necessary. Good data-driven systems for predicting heart diseases can improve the entire research and prevention process, making sure that more people can live healthy lives. This is where Machine Learning comes into play. Machine Learning helps in predicting the Heart diseases, and the predictions made are quite accurate.
+We've used Gaussian NB algorithm of Naive Bayes classifier family to achieve higher accuracy rate, implemented in Python, to predict the presence of heart disease in a patient. This is a classification problem, with input features contains 13 of parameters, and the target variable as a binary variable, predicting the probability of person's chances of heart failure.
 
 **Research Paper:** https://ijarcce.com/wp-content/uploads/2022/05/IJARCCE.2022.11455.pdf
+
+**Dataset:** https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 **Technologies Used:** Python, Jupyter Notebook, Flask, JavaScript, HTML, CSS
 
