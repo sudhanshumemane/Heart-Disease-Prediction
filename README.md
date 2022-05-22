@@ -7,7 +7,9 @@ We've used Gaussian NB algorithm of Naive Bayes classifier family to achieve hig
 
 **Dataset:** https://archive.ics.uci.edu/ml/datasets/heart+disease
 
-**Technologies Used:** Python, Jupyter Notebook
+**Research Paper:** https://ijarcce.com/wp-content/uploads/2022/05/IJARCCE.2022.11455.pdf
+
+**Technologies Used:** Python, Jupyter Notebook, Flask, JavaScript, HTML, CSS
 
 **Libraries Used:** 
 1. Numpy (for mathematical operations on arrays)
