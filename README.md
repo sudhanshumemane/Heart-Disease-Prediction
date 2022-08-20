@@ -40,6 +40,7 @@ We've used Gaussian NB algorithm of Naive Bayes classifier family to achieve hig
 **Comparison between classifier models**
 
 | **Predictive Model** | **Accuracy (%)** | **Time (sec)**  |
+| :--:                 |    :--------:    | :---------:      |
 | Naive Bayes          | 85.25            | 1.8             |
 | SVM                  | 91.97            | 2.9             |
 | Logistic Regression  | 85.25            | 2.3             |
@@ -53,7 +54,7 @@ diagnostics in time. The performance of the health’s diagnosis can be improved
 
 Furthermore, we know that irrelevant features also degrade the performance of the prediction system and increased computation time. 
 Thus, another innovative solution of our study to used features selection algorithms to selects the appropriate features that improve the classification accuracy as well as reduce the processing time of the preditive system.
-In the future, we will use other features selection algorithms, optimization methods to further increase the performance of a predictive system for HD diagnosis
+In the future, we will use other features selection algorithms, optimization methods to further increase the performance of a prediction models.
 
 
 
