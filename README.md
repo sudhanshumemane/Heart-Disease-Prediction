@@ -37,7 +37,7 @@ We've used Gaussian NB algorithm of Naive Bayes classifier family to achieve hig
 | 13 |  thal     | thal: 3 = normal; 6 = fixed defect; 7 = reversable defect |
 
 
-**Comparison between classifier models**
+**Comparison between classifier models:**
 
 | **Predictive Model** | **Accuracy (%)** | **Time (sec)**  |
 | :--:                 |    :--------:    | :---------:      |
